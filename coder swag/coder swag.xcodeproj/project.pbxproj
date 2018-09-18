@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E312CC0F21505E740024E412 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E312CC0E21505E740024E412 /* ProductCell.swift */; };
+		E312CC132150E9A40024E412 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = E312CC122150E9A40024E412 /* Product.swift */; };
 		E388A0C7214BE8930036BADF /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E388A0C6214BE8930036BADF /* CategoryCell.swift */; };
 		E388A0C9214C01BC0036BADF /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = E388A0C8214C01BC0036BADF /* Category.swift */; };
 		E388A0CC214C03DE0036BADF /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E388A0CB214C03DE0036BADF /* DataService.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		E312CC0E21505E740024E412 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
+		E312CC122150E9A40024E412 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		E388A0C6214BE8930036BADF /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		E388A0C8214C01BC0036BADF /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		E388A0CB214C03DE0036BADF /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				E388A0C8214C01BC0036BADF /* Category.swift */,
+				E312CC122150E9A40024E412 /* Product.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				E312CC0F21505E740024E412 /* ProductCell.swift in Sources */,
 				E388A0C9214C01BC0036BADF /* Category.swift in Sources */,
 				E388A0CC214C03DE0036BADF /* DataService.swift in Sources */,
+				E312CC132150E9A40024E412 /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
